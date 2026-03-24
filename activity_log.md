@@ -9,3 +9,4 @@
 - [2026-03-24T16:07:13Z] style: apply consistent code formatting
 - [2026-03-24T17:53:09Z] style: apply consistent code formatting
 - [2026-03-24T18:09:01Z] fix: resolve edge case in input validation
+- [2026-03-24T08:43:06Z] test: add unit tests for core module
