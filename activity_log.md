@@ -5,3 +5,4 @@
 - [2026-03-21T18:25:31Z] refactor: clean up unused imports
 - [2026-03-21T18:57:35Z] fix: resolve edge case in input validation
 - [2026-03-21T13:12:06Z] docs: improve inline documentation
+- [2026-03-24T15:53:59Z] fix: resolve edge case in input validation
